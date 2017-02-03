@@ -1,3 +1,4 @@
 #!/bin/bash
 chown -R grafana:grafana /etc/grafana
-exec /run.sh
+./run.sh&
+exec /configure_datasources.sh
