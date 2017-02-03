@@ -1,7 +1,7 @@
 [![license](https://img.shields.io/github/license/orachide/docker-grafana.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
-[![Docker Automated buil](https://img.shields.io/docker/automated/orachide/grafana.svg?style=flat-square)](https://hub.docker.com/r/wattazoum/springboot-runner/)
-[![Docker Pulls](https://img.shields.io/docker/pulls/orachide/grafana.svg?style=flat-square)](https://hub.docker.com/r/wattazoum/springboot-runner/)
+[![Docker Automated buil](https://img.shields.io/docker/automated/orachide/grafana.svg?style=flat-square)](https://hub.docker.com/r/orachide/grafana/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/orachide/grafana.svg?style=flat-square)](https://hub.docker.com/r/orachide/grafana/)
 [![Docker Stars](https://img.shields.io/docker/stars/orachide/grafana.svg?style=flat-square)](https://hub.docker.com/r/orachide/grafana/)
 
 # Grafana Docker image
