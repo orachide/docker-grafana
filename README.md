@@ -18,7 +18,7 @@ docker run \
   -p 3000:3000 \
   --name=grafana \
   -v /datasources /etc/grafana/datasources \
-  grafana/grafana
+  orachide/grafana
 ```
 Datasources *json files should be placed in your */datasources* in the above example.
 All other features from grafana/grafana image still work 
